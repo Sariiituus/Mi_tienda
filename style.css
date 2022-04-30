@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    width: 100%;
+    height: auto;
+    background-color: #fff;
+    color: #000;
+    font-weight: 400;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.tittle-text {
+    text-align: center;
+  }
+  
+  nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+
+
